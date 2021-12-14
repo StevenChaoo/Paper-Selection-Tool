@@ -37,3 +37,8 @@ Please enter command (MODE + KEY WORDS): o 2
 Open xxx\ xxx\ Joint\ xxx\ xxx.docx
 ```
 
+## Coming Features
+
+- More friendly user interface
+- More friendly fonts color
+- Migrate to npm framework
